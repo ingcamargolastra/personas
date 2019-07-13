@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Principal</string>
+    <string name="cedula">Digite su cédula</string>
+    <string name="nombre">Digite su nombre</string>
+    <string name="apellido">Digite su apellido</string>
+    <string name="titulo">Agregar Persona</string>
+    <string name="agregar">Agregar</string>
+    <string name="limpiar">Limpiar</string>
 </resources>
