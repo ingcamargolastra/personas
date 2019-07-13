@@ -6,4 +6,8 @@
     <string name="titulo">Agregar Persona</string>
     <string name="agregar">Agregar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="numero">N°</string>
+    <string name="table_cedula">Cedula</string>
+    <string name="table_nombre">Nombre</string>
+    <string name="table_apellido">Apellido</string>
 </resources>
