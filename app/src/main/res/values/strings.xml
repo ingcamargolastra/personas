@@ -10,4 +10,10 @@
     <string name="table_cedula">Cedula</string>
     <string name="table_nombre">Nombre</string>
     <string name="table_apellido">Apellido</string>
+    <string name="opcion_1">Agregar</string>
+    <string name="opcion_2">Listar</string>
+    <string-array name="opciones_lista">
+        <item>@string/opcion_1</item>
+        <item>@string/opcion_2</item>
+    </string-array>
 </resources>
